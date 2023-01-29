@@ -63,7 +63,10 @@ h5{
         color: rgb(239, 239, 247);
         background-color: rgb(118, 118, 207);
         animation-duration: 2s;
-        animation-name: slidein;    
+        animation-name: slidein;
+        background-image: linear-gradient(to left, rgb(118, 118, 207), rgb(66, 66, 204),rgb(7, 7, 241));
+        
+    
     }
     @keyframes slidein {
         from {
